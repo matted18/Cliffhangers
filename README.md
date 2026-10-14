@@ -2,7 +2,8 @@
 Devlog for Cliffhangers website
 
 
-**Tuesday 13/10/2026**
+## Tuesday 13/10/2026
+
 Website
 - Configured local development environment
 - Changed Fonts
