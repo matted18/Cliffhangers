@@ -44,3 +44,35 @@ To Do
 - Have commented out catering entry: lines 90-94 in editor.pug - need to check actual database to see how its handled
 - Seconder kit drop down appeared as desired
 - Need to add field to database, currently doing so breaks as all current trip signups end up missing a field 
+
+## Monday 19/10/2026 - Sunday 25/10/2026
+
+Homepage
+- Moved Reimbursements to the nav bar under my profile
+- Deleted extra home page blurb
+
+Exec page
+- Fixed font sizes to ensure photos stay in grid
+- Changed font colours and added text decorations
+
+Trips
+- Added seconder kit field to local dev database, works without issue
+- Found more issues regarding updating a trip - cancel function causing issues, along with catering.
+- Have assumed these issues are because the dev database is out of date and wasn't updated when these fields were added to the database.
+- Adjusted formatting to fix seconder kit requrest in
+- Added day of the week to trips posts
+- Adjusted text formatting
+- Commented out seconder kits until able to alter live database
+
+Calendar
+- Looked into making calendar dynamic and having events/trips be automatically added
+- Considered using current microsoft calendar
+- Changed local env redirect to my own microsoft calendar
+- Decided to investigate other options for local calendar inclusion
+
+Webstore
+- Built new rudimentary webstore on Square after taking old store down due to php vulnerability
+- Will discuss with exec team whether to restore the old store or move forward with the new one
+
+Certificate
+- Renewed the certificate
