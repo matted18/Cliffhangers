@@ -73,6 +73,3 @@ Calendar
 Webstore
 - Built new rudimentary webstore on Square after taking old store down due to php vulnerability
 - Will discuss with exec team whether to restore the old store or move forward with the new one
-
-Certificate
-- Renewed the certificate
